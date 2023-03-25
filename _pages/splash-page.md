@@ -15,7 +15,7 @@ excerpt: "Imagine a TTRPG assistant that could learn from your gaming style and 
 intro: 
   - excerpt: 'Elevate your storytelling and world-building with an AI-enhanced TTRPG experience'
 feature_row:
-  - image_path: "assets/images/moss-house.png"
+  - image_path: "/assets/images/moss-house.png"
     image_caption: "Image courtesy of [AI](https://openai.com/)"
     alt: "feature row image 1"
     title: "Dynamic World-Building"
