@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/house-boat-splash.png
   actions:
     - label: "Learn More"
       url: "/terms/"
@@ -15,19 +15,19 @@ excerpt: "Imagine a TTRPG assistant that could learn from your gaming style and 
 intro: 
   - excerpt: 'Elevate your storytelling and world-building with an AI-enhanced TTRPG experience'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/moss-house.png
     image_caption: "Image courtesy of [AI](https://openai.com/)"
     alt: "feature row image 1"
     title: "Dynamic World-Building"
     excerpt: "AI-generated NPCs, locations, timelines, events make for a fully immersive experience."
-  - image_path: /assets/images/house-boat-splash.png
+  - image_path: /assets/images/armor-lady.png
     alt: "feature row image 2"
     title: "Personalized Campaigns"
     excerpt: "The AI learns your play style to help craft campaigns that match your DM style."
     url: "https://github.com/iamq-dev/familiar-ai/"
     btn_label: "Yeet to GitHub"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/
     title: Intuitive Planning
     excerpt: "Plan sessions with ease using the AI's suggestions and auto-generated scenarios."
 feature_row2:
