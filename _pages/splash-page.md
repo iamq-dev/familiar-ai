@@ -15,20 +15,20 @@ excerpt: "Imagine a TTRPG assistant that could learn from your gaming style and 
 intro: 
   - excerpt: 'Elevate your storytelling and world-building with an AI-enhanced TTRPG experience'
 feature_row:
-  - image_path: assets/images/moss-house.png
+  - image_path: "assets/images/moss-house.png"
     image_caption: "Image courtesy of [AI](https://openai.com/)"
     alt: "feature row image 1"
     title: "Dynamic World-Building"
     excerpt: "AI-generated NPCs, locations, timelines, events make for a fully immersive experience."
-  - image_path: /assets/images/armor-lady.png
+  - image_path: "/assets/images/armor-lady.png"
     alt: "feature row image 2"
     title: "Personalized Campaigns"
     excerpt: "The AI learns your play style to help craft campaigns that match your DM style."
     url: "https://github.com/iamq-dev/familiar-ai/"
     btn_label: "Yeet to GitHub"
     btn_class: "btn--primary"
-  - image_path: /assets/images/
-    title: Intuitive Planning
+  - image_path: "/assets/images/party-fire.png"
+    title: "Intuitive Planning"
     excerpt: "Plan sessions with ease using the AI's suggestions and auto-generated scenarios."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
