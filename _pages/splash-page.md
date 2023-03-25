@@ -48,11 +48,11 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+  - image_path: "/assets/images/Gravitas_concept2.png"
+    alt: "Gravatas standing dramatically"
+    title: "Heavy Robot"
+    excerpt: 'You do not understand the **weight** of the situation. -__Gravitas__'
+    url: "https://www.worldanvil.com/hero/b10fa34f-9357-4dd5-9035-967b6c458f38"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
