@@ -20,7 +20,7 @@ feature_row:
     alt: "feature row image 1"
     title: "Dynamic World-Building"
     excerpt: "AI-generated NPCs, locations, timelines, events make for a fully immersive experience."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/house-boat-splash.png
     alt: "feature row image 2"
     title: "Personalized Campaigns"
     excerpt: "The AI learns your play style to help craft campaigns that match your DM style."
